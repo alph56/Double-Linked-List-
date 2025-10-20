@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1664496561 source:c:\users\admon\documents\nueva carpeta (2)\prog02\src\alumno.cpp
+	"Alumno.h"
+
+1664497055 c:\users\admon\documents\nueva carpeta (2)\prog02\include\alumno.h
+	<iostream>
+
+1664769819 source:c:\users\admon\documents\nueva carpeta (2)\prog02\main.cpp
+	<iostream>
+	<locale.h>
+	"Lista.h"
+
+1664768640 c:\users\admon\documents\nueva carpeta (2)\prog02\include\lista.h
+	"Nodo.h"
+	<iostream>
+
+1664686895 c:\users\admon\documents\nueva carpeta (2)\prog02\include\nodo.h
+	"Alumno.h"
+
+1664769922 source:c:\users\admon\documents\nueva carpeta (2)\prog02\src\lista.cpp
+	"Lista.h"
+
+1664686895 source:c:\users\admon\documents\nueva carpeta (2)\prog02\src\nodo.cpp
+	"Nodo.h"
+
